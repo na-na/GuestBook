@@ -6,7 +6,8 @@
 <html lang="en">
 
 <body>
-	Success! You are here!
+	<h3>Success! You are here!</h3>
+	<p>Result: ${result}</p>
 </body>
 
 </html>
